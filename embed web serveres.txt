@@ -1,0 +1,12 @@
+mongoose : 	https://code.google.com/archive/p/mongoose/
+Mako Server:	https://makoserver.net/
+
+MinnowServer :
+
+https://github.com/RealTimeLogic/MinnowServer
+https://realtimelogic.com/products/sharkssl/minnow-server/
+
+Barracuda App Server:
+
+React and Barracuda:
+https://realtimelogic.com/articles/ReactJS-Angular-and-Vuejs-with-the-Barracuda-App-Server
